@@ -1,0 +1,31 @@
+
+/* * {
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+.navbar {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: red;
+}
+
+.navbar__title {
+    font-size: 2rem;
+}
+
+.navbar__shop-cart {
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+    margin-right: 10px;
+}
+
+.navbar__search {
+   
+    width: 400px;
+}
+
+.navbar__search:focus {
+    outline: none;
+}
